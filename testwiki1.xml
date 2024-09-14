@@ -1,0 +1,18 @@
+<xml>
+    <page>
+        <title>A</title>
+        <id>1</id>
+        <text>The cat jumped over the [[dog]] to get to the other side of the road.</text>
+    </page>
+    <page>
+        <title>B</title>
+        <id>2</id>
+        <text>A a the THE tHe of OF to for an or and but</text>
+    </page>
+    <page>
+        <title>C</title>
+        <id>3</id>
+        <text>[[CS200|CS@Brown]] is the CLASS for second-semester freshmen to take if they are interested in doing computer science.</text>
+    </page>
+
+</xml>
